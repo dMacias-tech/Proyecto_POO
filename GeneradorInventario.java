@@ -1,5 +1,5 @@
 package proyecto_inventario;
-//hola munod
+
 public class GeneradorInventario {
     
     public static Inventario<? extends Producto> crearInventario(String tipo, String nombreEmpresa) {
@@ -15,3 +15,4 @@ public class GeneradorInventario {
     }
 
 }
+
