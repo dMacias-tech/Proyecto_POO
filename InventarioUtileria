@@ -1,0 +1,4 @@
+package proyecto_inventario;
+
+public class InventarioUtileria extends Inventario<Producto_utileria>{
+
